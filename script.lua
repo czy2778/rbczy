@@ -41,7 +41,7 @@ local Settings = _G.XQ.Settings
 local Window = WindUI:CreateWindow({
     Title = '军事大亨脚本',
     Icon = "crown",
-    Author = "XingQing",
+    Author = "Czy",
     Size = UDim2.fromOffset(600, 480),
     Transparent = true,
     Theme = "FIN",
@@ -50,7 +50,7 @@ local Window = WindUI:CreateWindow({
     Resizable = true,
 })
 
-Window:Tag({ Title = "整合版", Color = Color3.fromHex("#7FDBFF") })
+Window:Tag({ Title = "豆大师版", Color = Color3.fromHex("#7FDBFF") })
 
 Window:EditOpenButton({
     Title = "军事大亨脚本",
