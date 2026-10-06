@@ -39,7 +39,7 @@ local Settings = _G.XQ.Settings
 -- 创建窗口
 --=====================================================
 local Window = WindUI:CreateWindow({
-    Title = '军事大亨脚本',
+    Title = '超级无敌牛逼雇佣兵脚本',
     Icon = "crown",
     Author = "Czy",
     Size = UDim2.fromOffset(600, 480),
